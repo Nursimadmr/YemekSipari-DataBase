@@ -1,4 +1,4 @@
--- Adım 4: İleri Sorgular ve Raporlar
+--  İleri Sorgular ve Raporlar
 
 -------------------------------------------------
 -- 1. Sipariş Fişi (JOIN ile tüm detaylar)
